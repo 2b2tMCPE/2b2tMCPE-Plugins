@@ -1,0 +1,9 @@
+# ==================== #
+# 2b2tMCPE Config File #
+# ==================== #
+
+# Commands #
+
+help: §b==========\n§eHelp:\n§a§l/help:§r§7 Displays this.\n§a§l/kill:§r§7 Kills you.\n§a§l/rules:§r§7 Displays the server rules.\n§a§l/hud off:§r§7 Turn off coordinates.\n§a§l/version:§r§7 Displays the server version.\n§a§l/warp:§r§7 Warps you to a location\n§b========
+version: §b========\n§aVersion§7 v1.0.0 BETA\n§b========
+warp: §eSeriously? This isn't a factions server.
